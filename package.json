@@ -1,0 +1,9 @@
+{
+  "name": "grid-worker-desktop",
+  "version": "1.0.0",
+  "description": "Desktop Worker Node for Tactical Compute Cluster",
+  "main": "Desktop-Worker.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
