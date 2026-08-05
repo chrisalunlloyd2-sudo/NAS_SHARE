@@ -4,8 +4,8 @@ All notable changes to this project.
 
 ## 2026-08
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
-- **[Changed]** [Moe autonomous] NAS_SHARE 2026-08-04 19:27 ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Changed]** [Moe autonomous] NAS_SHARE 2026-08-04 19:27 ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
